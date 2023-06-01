@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a{
+  text-decoration: none;
+  color: gold;
+}
+
+.app{
+  background-color: #141614;
+  color: white;
+  min-height: 100vh;
+}

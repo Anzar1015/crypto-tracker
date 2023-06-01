@@ -1,0 +1,8 @@
+.row {
+  border: 1px solid white;
+  background-color: #16171a;
+  cursor: pointer;
+}
+.row:hover {
+  background-color: #131111;
+}
